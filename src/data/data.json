@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "user": "Alex",
+    "commentMsg": "comment1",
+    "child": [
+      {
+        "id": "2",
+        "user": "Zed",
+        "commentMsg": "comment2",
+        "child": [
+          {
+            "id": "3",
+            "user": "Harvi",
+            "commentMsg": "comment3",
+            "child": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "user": "Jeet",
+    "commentMsg": "comment4",
+    "child": []
+  },
+  {
+    "id": "5",
+    "user": "Ninja",
+    "commentMsg": "comment5",
+    "child": []
+  }
+]
